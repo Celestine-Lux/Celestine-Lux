@@ -8,9 +8,8 @@
 <h3 align="center">C++爱好者 | 技术宅 | 社恐但珍惜友谊</h3>
 
 <div align="center">
-  <a href="https://space.bilibili.com/9462537">
-    [![Bilibili](https://img.shields.io/badge/Bilibili-Celestine--Lux-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/9462537)
-  </a>
+  [![Bilibili](https://img.shields.io/badge/Bilibili-Celestine--Lux-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/9462537)
+  
   <a href="https://github.com/Celestine-Lux">
     <img src="https://img.shields.io/badge/GitHub-Celestine--Lux-lightgrey?style=flat&logo=github" />
   </a>
