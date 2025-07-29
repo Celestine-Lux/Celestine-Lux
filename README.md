@@ -64,4 +64,4 @@
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Celestine-Lux&theme=github-compact&hide_border=true&area=true&bg_color=ffb6c1&color=ff6b8b&line=ff8fab&point=ff4757" alt="Activity Graph" />
 </div>
 <img align="left" alt="img" src="https://github.com/Celestine-Lux/Celestine-Lux/blob/main/image.png" width="40%" height="auto" />
-<img align="right" alt="img" src="<img alt="img" src="https://github.com/Celestine-Lux/Celestine-Lux/blob/main/image.png" width="40%" height="auto" />" width="40%" height="auto" />
+<img align="right" alt="img" src="https://github.com/Celestine-Lux/Celestine-Lux/blob/main/image.avif" width="40%" height="auto" />
