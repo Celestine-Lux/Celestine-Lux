@@ -61,9 +61,7 @@
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=Celestine-Lux&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Celestine-Lux&theme=github-compact&hide_border=true&area=true&bg_color=ffb6c1&color=ff6b8b&line=ff8fab&point=ff4757" alt="Activity Graph" />
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Celestine-Lux/Celestine-Lux/blob/main/image.png" style="height: 500px; width: auto; object-fit: contain;" />
-  <img src="https://github.com/Celestine-Lux/Celestine-Lux/blob/main/image.avif" style="height: 500px; width: auto; object-fit: contain;" />
+<div align="center" style="display: flex; gap: 10px; justify-content: center;">
+  <img src="https://github.com/Celestine-Lux/Celestine-Lux/blob/main/image.png" height="200" />
+  <img src="https://github.com/Celestine-Lux/Celestine-Lux/blob/main/image.avif" height="200" />
 </div>
