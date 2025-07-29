@@ -20,7 +20,6 @@
 </div>
 
 ---
-<img align="right" alt="img" src="https://github.com/Celestine-Lux/Celestine-Lux/blob/main/gif.gif" width="40%" height="auto" />
 
 
 - 🏫 什么都不会但仍在努力的废物呐
@@ -34,6 +33,8 @@
 
 
 ## 🛠 技术栈 (Tech Stack)
+
+<img align="right" alt="img" src="https://github.com/Celestine-Lux/Celestine-Lux/blob/main/gif.gif" width="40%" height="auto" />
 
 ### 前端 Frontend
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  
