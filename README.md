@@ -26,7 +26,7 @@
 - 🎨 对可爱事物毫无抵抗力咪!!
 - 🤝 社恐但有很多大佬朋友
 - 😴 专业摆烂选手
-![摸摸]([https://your-gif-link.gif](https://github.com/Celestine-Lux/Celestine-Lux/blob/main/gif.gif))
+<img align="right" alt="img" src="[https://github.com/XLittleLeft/XLittleLeft/blob/main/ATRI.gif](https://github.com/Celestine-Lux/Celestine-Lux/blob/main/gif.gif)" width="50%" height="auto" />
 
 ---
 
