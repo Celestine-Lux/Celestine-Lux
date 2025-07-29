@@ -61,7 +61,7 @@
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=Celestine-Lux&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align="center" style="display: flex; gap: 300px; justify-content: center;">
-  <img src="https://github.com/Celestine-Lux/Celestine-Lux/blob/main/image.png" height="200" />
-  <img src="https://github.com/Celestine-Lux/Celestine-Lux/blob/main/image.avif" height="200" />
+<div align="center" style="display: flex; gap: 10px; justify-content: center;">
+  <img src="https://github.com/Celestine-Lux/Celestine-Lux/blob/main/image.png" height="500" />
+  <img src="https://github.com/Celestine-Lux/Celestine-Lux/blob/main/image.avif" height="500" />
 </div>
