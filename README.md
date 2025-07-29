@@ -49,4 +49,5 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Celestine-Lux&show_icons=true&theme=radical&bg_color=30,ff6b8b,ffb6c1&title_color=fff&text_color=fff&icon_color=fff&border_color=fff" onerror="this.onerror=null;this.src='https://placehold.co/400x165/ffb6c1/ff6b8b?text=Stats+Unavailable'" />
   
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celestine-Lux&layout=compact&theme=radical&bg_color=30,ffb6c1,ff6b8b&title_color=fff&text_color=fff&icon_color=fff&border_color=fff" onerror="this.onerror=null;this.src='https://placehold.co/400x165/ff6b8b/ffb6c1?text=Language+Stats'" />
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Celestine-Lux&theme=github-compact&hide_border=true&area=true" />
 </div>
