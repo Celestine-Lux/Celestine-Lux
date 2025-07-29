@@ -44,16 +44,11 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Celestine-Lux&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celestine-Lux&layout=compact&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Celestine-Lux&show_icons=true&theme=radical&bg_color=30,ff6b8b,ffb6c1&title_color=fff&text_color=fff&icon_color=fff&border_color=fff" onerror="this.onerror=null;this.src='https://placehold.co/400x165/ffb6c1/ff6b8b?text=Stats+Unavailable'" />
+  
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celestine-Lux&layout=compact&theme=radical&bg_color=30,ffb6c1,ff6b8b&title_color=fff&text_color=fff&icon_color=fff&border_color=fff" onerror="this.onerror=null;this.src='https://placehold.co/400x165/ff6b8b/ffb6c1?text=Language+Stats'" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Celestine-Lux&label=访问次数&color=ff6b8b" alt="访问统计" />
+  <img src="https://komarev.com/ghpvc/?username=Celestine-Lux&label=✨%20访问次数&color=ff8fa3&style=flat" alt="访问统计" />
 </div>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B8B&center=true&vCenter=true&width=435&lines=每一天都是新的开始;愿您在这里找到温暖与灵感" alt="打字效果" />
-</p>
