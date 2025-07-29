@@ -20,13 +20,13 @@
 </div>
 
 ---
-
+<img align="right" alt="img" src="https://github.com/Celestine-Lux/Celestine-Lux/blob/main/gif.gif" width="40%" height="auto" />
 - 🏫 什么都不会但仍在努力的废物呐
 - 💻 喜欢研究C++算法和数据结构
 - 🎨 对可爱事物毫无抵抗力咪!!
 - 🤝 社恐但有很多大佬朋友
 - 😴 专业摆烂选手
-<img align="right" alt="img" src="https://github.com/Celestine-Lux/Celestine-Lux/blob/main/gif.gif" width="50%" height="auto" />
+
 
 ---
 
