@@ -50,5 +50,5 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Celestine-Lux&label=✨%20访问次数&color=ff8fa3&style=flat" alt="访问统计" />
+  <img src="https://komarev.com/ghpvc/?username=Celestine-Lux&label=✨%50访问次数&color=ff8fa3&style=flat" alt="访问统计" />
 </div>
