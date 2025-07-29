@@ -14,6 +14,7 @@
   <a href="https://github.com/Celestine-Lux">
     <img src="https://img.shields.io/badge/GitHub-Celestine--Lux-lightgrey?style=flat&logo=github" />
   </a>
+  <a href="https://res.abeim.cn/api/qq/?qq=1146576614"><img src="https://img.shields.io/badge/QQ-1146576614-pink?logo=tencentqq" /></a>
 </div>
 
 ---
@@ -49,5 +50,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Celestine-Lux&show_icons=true&theme=radical&bg_color=30,ff6b8b,ffb6c1&title_color=fff&text_color=fff&icon_color=fff&border_color=fff" onerror="this.onerror=null;this.src='https://placehold.co/400x165/ffb6c1/ff6b8b?text=Stats+Unavailable'" />
   
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celestine-Lux&layout=compact&theme=radical&bg_color=30,ffb6c1,ff6b8b&title_color=fff&text_color=fff&icon_color=fff&border_color=fff" onerror="this.onerror=null;this.src='https://placehold.co/400x165/ff6b8b/ffb6c1?text=Language+Stats'" />
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Celestine-Lux&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Celestine-Lux&theme=github-compact&hide_border=true&area=true" />
 </div>
