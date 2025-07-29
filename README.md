@@ -18,7 +18,6 @@
 
 ---
 
-## ✨ 关于我
 
 - 🏫 什么都不会但仍在努力的废物呐
 - 💻 喜欢研究C++算法和数据结构
@@ -40,8 +39,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-
-## 📊 GitHub 统计
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Celestine-Lux&show_icons=true&theme=radical&bg_color=30,ff6b8b,ffb6c1&title_color=fff&text_color=fff&icon_color=fff&border_color=fff" onerror="this.onerror=null;this.src='https://placehold.co/400x165/ffb6c1/ff6b8b?text=Stats+Unavailable'" />
