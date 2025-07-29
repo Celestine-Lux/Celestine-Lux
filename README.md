@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Celestine-Lux&fontSize=80&fontAlignY=35&animation=twinkling&desc=为了更美好的明天而存在&descAlignY=60" />
 </div>
 
-<h1 align="center">🌸 你好呀，我是Neko酱 🌸</h1>
+<h1 align="center">🌸 你好呀，咱是neko酱 🌸</h1>
+<h3 align="center">名字意为天堂的光（也可以叫咱小光啦）</h3>
+
 <h3 align="center">C++爱好者 | 技术宅 | 社恐但珍惜友谊</h3>
 
 <div align="center">
