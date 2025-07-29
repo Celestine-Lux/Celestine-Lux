@@ -34,8 +34,8 @@
 
 ## 🛠 技术栈 (Tech Stack)
 
-<img align="right" alt="img" src="https://github.com/Celestine-Lux/Celestine-Lux/blob/main/gif.gif" width="40%" height="auto" />
 
+<img align="right" alt="img" src="https://github.com/Celestine-Lux/Celestine-Lux/blob/main/gif.gif" width="40%" height="auto" />
 ### 前端 Frontend
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
