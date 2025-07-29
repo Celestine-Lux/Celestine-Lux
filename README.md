@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/GitHub-Celestine--Lux-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://res.abeim.cn/api/qq/?qq=1146576614">
-    <img src="https://img.shields.io/badge/QQ-1146576614-12B7F5?style=flat&logo=tencentqq&logoColor=pink" alt="QQ" />
+    <img src="https://img.shields.io/badge/QQ-1146576614-12B7F5?style=flat&logo=tencentqq&logoColor=white" alt="QQ" />
   </a>
 </div>
 
