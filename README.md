@@ -48,7 +48,3 @@
   
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celestine-Lux&layout=compact&theme=radical&bg_color=30,ffb6c1,ff6b8b&title_color=fff&text_color=fff&icon_color=fff&border_color=fff" onerror="this.onerror=null;this.src='https://placehold.co/400x165/ff6b8b/ffb6c1?text=Language+Stats'" />
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Celestine-Lux&label=✨%100访问次数&color=ff8fa3&style=flat" alt="访问统计" />
-</div>
