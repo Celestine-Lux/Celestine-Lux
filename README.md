@@ -28,7 +28,7 @@
 - 😴 专业摆烂选手
 
 ---
-<img align="right" alt="img" src="https://github.com/Celestine-Lux/Celestine-Lux/blob/main/gif.gif" width="50%" height="auto" />
+
 
 ## 🛠 技术栈 (Tech Stack)
 
