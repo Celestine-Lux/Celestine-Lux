@@ -8,7 +8,7 @@
 <h3 align="center">东方众 | 技术宅 | 社恐但珍惜友谊</h3>
 
 <div align="center">
-  <a href="https://space.bilibili.com/9462537">
+  <a href="https://space.bilibili.com/484571188">
     <img src="https://img.shields.io/badge/Bilibili-Celestine--Lux-00A1D6?style=flat&logo=bilibili&logoColor=white" alt="Bilibili" />
   </a>
   <a href="https://github.com/Celestine-Lux">
