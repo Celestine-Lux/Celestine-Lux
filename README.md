@@ -56,7 +56,7 @@
 ---
 
 <div align="center">
-  <img src="https://count.getloli.com/@:Celestine-Lux" alt=":Celestine-Lux" />
+  <img src="https://count.getloli.com/@:Celestine-Lux?theme=booru-jaypee" alt=":Celestine-Lux" />
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Celestine-Lux&theme=github-compact&hide_border=true&area=true" />
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center;">
